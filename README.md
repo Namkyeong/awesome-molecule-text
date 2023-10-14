@@ -1,12 +1,12 @@
 # Awesome-molecule-text
 This repository is the collections of papers about **Molecular Machine Learning (MoML) with its textual description**,
-which aim to utilize power of language models for learning the accumulated human knowledge in molecular science.
+aiming to harness the capabilities of language models for learning the accumulated human knowledge in molecular science.
 The papers are organized in the order of their publication dates.
 
 We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
 
-## Downstream tasks
 
+## Various Molecule-Text Tasks
 
 |                | Mol &rarr; Text | Text &rarr; Mol | Mol + Text           |
 |----------------|---------------------|---------------------|--------------------|
