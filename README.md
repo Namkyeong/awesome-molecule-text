@@ -10,10 +10,10 @@ We will try to make this list updated. If you find any error or any missed paper
 
 We categorize various downstream tasks for molecule-text models and provide examples of notable works in each category.
 
-|                | Mol &rarr; Text | Text &rarr; Mol | Mol + Text           |
-|----------------|---------------------|---------------------|--------------------|
-| Discriminative | Molecule Retrieval [1] | Text Retrieval [3] | Zero-Shot Learning [6, 8] |
-| Generative     | Molecule Generation [2, 5] <br/> Molecule Editing [3] | Molecule Captioning [2, 5] |                    |
+|                | Text &rarr; Mol | Mol &rarr; Text | Mol + Text |
+|----------------|---------------------|---------------------|--------------------| 
+| Discriminative | Molecule Retrieval [1] <br/> Molecule Property Prediction [3] | Text Retrieval [3] | Zero-Shot Learning [6, 8] | 
+| Generative     | Molecule Generation [2, 5] <br/> Molecule Editing [3] | Molecule Captioning [2, 5] | 
 
 
 
