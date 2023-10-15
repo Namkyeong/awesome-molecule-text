@@ -34,6 +34,9 @@ We categorize various downstream tasks for molecule-text models and provide exam
 14. [2023 arXiv] From Artificially Real to Real: Leveraging Pseudo Data from Large Language Models for Low-Resource Molecule Discovery [[Paper]](https://arxiv.org/abs/2309.05203)
 15. [2023 arXiv] GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text [[Paper]](https://arxiv.org/abs/2308.06911)
 
+## Survey on Molecules and Language Models
+1. [2023 arXiv] Transformers and Large Language Models for Chemistry and Drug Discovery [[Paper]](https://arxiv.org/abs/2310.06083)
+2. [2023 arXiv] Language models in molecular discovery [[Paper]](https://arxiv.org/abs/2309.16235)
 
 
 ## Acknowledgements
