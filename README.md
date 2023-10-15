@@ -32,6 +32,7 @@ We categorize various downstream tasks for molecule-text models and provide exam
 12. [2023 arXiv] Interactive Molecular Discovery with Natural Language [[Paper]](https://arxiv.org/abs/2306.11976) [[Code]](https://github.com/Ellenzzn/ChatMol/tree/main)
 13. [2023 arXiv] Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective [[Paper]](https://arxiv.org/abs/2306.06615) [[Code]](https://github.com/phenixace/MolReGPT)
 14. [2023 arXiv] From Artificially Real to Real: Leveraging Pseudo Data from Large Language Models for Low-Resource Molecule Discovery [[Paper]](https://arxiv.org/abs/2309.05203)
+15. [2023 arXiv] GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text [[Paper]](https://arxiv.org/abs/2308.06911)
 
 
 
