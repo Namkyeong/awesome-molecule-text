@@ -1,9 +1,9 @@
 # Awesome-molecule-text
-This repository is the collections of papers about **Molecular Machine Learning (MoML) with its textual description**,
+This repository is the collection of papers about **Molecular Machine Learning (MoML) with its textual description**,
 aiming to harness the capabilities of language models for learning the accumulated human knowledge in molecular science.
 The papers are organized in the order of their publication dates.
 
-We will try to make this list updated. If you found any error or any missed paper, please don't hesitate to open issues or pull requests.
+We will try to make this list updated. If you find any error or any missed paper, please feel free to open issues or pull requests.
 
 
 ## Various Molecule-Text Tasks
@@ -25,7 +25,7 @@ We categorize various downstream tasks for molecule-text models and provide exam
 5. [2023 ICML] Unifying Molecular and Textual Representations via Multi-task Language Modeling [[Paper]](https://arxiv.org/abs/2301.12586) [[Code]](https://github.com/GT4SD/multitask_text_and_chemistry_t5) 
 6. [2023 ICML] Enhancing Activity Prediction Models in Drug Discovery with the Ability to Understand Human Language [[Paper]](https://proceedings.mlr.press/v202/seidl23a/seidl23a.pdf) [[Code]](https://github.com/ml-jku/clamp)
 7. [2023 WCB @ ICML] Extracting Molecular Properties from Natural Language with Multimodal Contrastive Learning [[Paper]](https://arxiv.org/abs/2307.12996)
-8. [2023 NIPS] GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning [[Paper]](https://arxiv.org/abs/2306.13089) [[Code]](https://github.com/zhao-ht/GIMLET)
+8. [2023 NeurIPS] GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning [[Paper]](https://arxiv.org/abs/2306.13089) [[Code]](https://github.com/zhao-ht/GIMLET)
 9. [2023 ACL Short] MolXPT: Wrapping Molecules with Text for Generative Pre-training [[Paper]](https://aclanthology.org/2023.acl-short.138/)
 10. [2023 arXiv] MolFM: A Multimodal Molecular Foundation Model [[Paper]](https://arxiv.org/abs/2307.09484) [[Code]](https://github.com/PharMolix/OpenBioMed)
 11. [2023 arXiv] Can Large Language Models Empower Molecular Property Prediction? [[Paper]](https://arxiv.org/abs/2307.07443) [[Code]](https://github.com/chnq/llm4mol)
