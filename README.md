@@ -35,6 +35,12 @@ We categorize various downstream tasks for molecule-text models and provide exam
 15. [2023 arXiv] From Artificially Real to Real: Leveraging Pseudo Data from Large Language Models for Low-Resource Molecule Discovery [[Paper]](https://arxiv.org/abs/2309.05203)
 16. [2023 arXiv] GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text [[Paper]](https://arxiv.org/abs/2308.06911)
 17. [2023 arXiv] Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models [[Paper]](https://arxiv.org/abs/2306.08018) [[Code]](https://github.com/zjunlp/Mol-Instructions)
+18. [2024 ICLR Under review] Towards 3D Molecule-Text Interpretation in Language Models [[Paper]](https://openreview.net/forum?id=xI4yNlkaqh)
+19. [2024 ICLR Under review] Text2Data: Low-Resource Data Generation with Textual Control [[Paper]](https://openreview.net/forum?id=Y2Txh5uGRe)
+20. [2024 ICLR Under review] Text-guided Diffusion Model for 3D Molecule Generation [[Paper]](https://openreview.net/forum?id=FdUloEgBSE)
+21. [2024 ICLR Under review] Form follows Function: Text-to-Text Conditional Graph Generation based on Functional Requirements [[Paper]](https://openreview.net/forum?id=Pu3qMB9aKD)
+22. [2024 ICLR Under review] Data-Efficient Molecular Generation with Hierarchical Textual Inversion [[Paper]](https://openreview.net/forum?id=wwotGBxtC3)
+
 
 ## Survey on Molecules and Language Models
 1. [2023 arXiv] Transformers and Large Language Models for Chemistry and Drug Discovery [[Paper]](https://arxiv.org/abs/2310.06083)
