@@ -13,7 +13,7 @@ We categorize various downstream tasks for molecule-text models and provide exam
 |                | Text &rarr; Mol | Mol &rarr; Text | Mol + Text |
 |----------------|---------------------|---------------------|--------------------| 
 | Discriminative | Molecule Retrieval [1] <br/> Molecule Property Prediction [4] | Text Retrieval [4] | Zero-Shot Learning [7, 9] | 
-| Generative     | Molecule Generation [2, 6] <br/> Molecule Editing [4] | Molecule Captioning [2, 6] | 
+| Generative     | Molecule Generation [2, 6] <br/> Molecule Editing [4] | Molecule Captioning [2, 6] <br/> Molecular Question-Answering [18] | 
 
 
 
