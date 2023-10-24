@@ -13,7 +13,7 @@ We categorize various downstream tasks for molecule-text models and provide exam
 |                | Text &rarr; Mol | Mol &rarr; Text | Mol + Text |
 |----------------|---------------------|---------------------|--------------------| 
 | Discriminative | Molecule Retrieval [1] <br/> Molecule Property Prediction [4] | Text Retrieval [4] | Zero-Shot Learning [7, 9] | 
-| Generative     | Molecule Generation [2, 6] <br/> Molecule Editing [4] | Molecule Captioning [2, 6] <br/> Molecular Question-Answering [21] | 
+| Generative     | Molecule Generation [2, 6] <br/> Molecule Editing [4] | Molecule Captioning [2, 6] <br/> Molecular Question-Answering [22] | 
 
 
 
@@ -29,20 +29,21 @@ We categorize various downstream tasks for molecule-text models and provide exam
 9. [2023 NeurIPS] GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning [[Paper]](https://arxiv.org/abs/2306.13089) [[Code]](https://github.com/zhao-ht/GIMLET)
 10. [2023 NeurIPS Benchmark & Dataset] What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks [[Paper]](https://arxiv.org/abs/2305.18365) [[Code]](https://github.com/ChemFoundationModels/ChemLLMBench)
 11. [2023 ACL Short] MolXPT: Wrapping Molecules with Text for Generative Pre-training [[Paper]](https://aclanthology.org/2023.acl-short.138/)
-12. [2023 arXiv] MolFM: A Multimodal Molecular Foundation Model [[Paper]](https://arxiv.org/abs/2307.09484) [[Code]](https://github.com/PharMolix/OpenBioMed)
-13. [2023 arXiv] Can Large Language Models Empower Molecular Property Prediction? [[Paper]](https://arxiv.org/abs/2307.07443) [[Code]](https://github.com/chnq/llm4mol)
-14. [2023 arXiv] Interactive Molecular Discovery with Natural Language [[Paper]](https://arxiv.org/abs/2306.11976) [[Code]](https://github.com/Ellenzzn/ChatMol/tree/main)
-15. [2023 arXiv] Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective [[Paper]](https://arxiv.org/abs/2306.06615) [[Code]](https://github.com/phenixace/MolReGPT)
-16. [2023 arXiv] From Artificially Real to Real: Leveraging Pseudo Data from Large Language Models for Low-Resource Molecule Discovery [[Paper]](https://arxiv.org/abs/2309.05203)
-17. [2023 arXiv] GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text [[Paper]](https://arxiv.org/abs/2308.06911)
-18. [2023 arXiv] Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models [[Paper]](https://arxiv.org/abs/2306.08018) [[Code]](https://github.com/zjunlp/Mol-Instructions)
-19. [2023 arXiv] Catalyst Property Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models [[Paper]](https://arxiv.org/abs/2309.00563) [[Code]](https://github.com/hoon-ock/CatBERTa)
-20. [2023 arXiv] GPT-MolBERTa: GPT Molecular Features Language Model for molecular property prediction [[Paper]](https://arxiv.org/abs/2310.03030) [[Code]](https://github.com/Suryanarayanan-Balaji/GPT-MolBERTa)
-21. [2024 ICLR Under review] Towards 3D Molecule-Text Interpretation in Language Models [[Paper]](https://openreview.net/forum?id=xI4yNlkaqh)
-22. [2024 ICLR Under review] Text2Data: Low-Resource Data Generation with Textual Control [[Paper]](https://openreview.net/forum?id=Y2Txh5uGRe)
-23. [2024 ICLR Under review] Text-guided Diffusion Model for 3D Molecule Generation [[Paper]](https://openreview.net/forum?id=FdUloEgBSE)
-24. [2024 ICLR Under review] Form follows Function: Text-to-Text Conditional Graph Generation based on Functional Requirements [[Paper]](https://openreview.net/forum?id=Pu3qMB9aKD)
-25. [2024 ICLR Under review] Data-Efficient Molecular Generation with Hierarchical Textual Inversion [[Paper]](https://openreview.net/forum?id=wwotGBxtC3)
+12. [2023 EMNLP] MolCA: Molecular Graph-Language Modeling with Cross-Modal Projector and Uni-Modal Adapter [[Paper]](https://arxiv.org/abs/2310.12798) [[Code]](https://github.com/acharkq/MolCA)
+13. [2023 arXiv] MolFM: A Multimodal Molecular Foundation Model [[Paper]](https://arxiv.org/abs/2307.09484) [[Code]](https://github.com/PharMolix/OpenBioMed)
+14. [2023 arXiv] Can Large Language Models Empower Molecular Property Prediction? [[Paper]](https://arxiv.org/abs/2307.07443) [[Code]](https://github.com/chnq/llm4mol)
+15. [2023 arXiv] Interactive Molecular Discovery with Natural Language [[Paper]](https://arxiv.org/abs/2306.11976) [[Code]](https://github.com/Ellenzzn/ChatMol/tree/main)
+16. [2023 arXiv] Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective [[Paper]](https://arxiv.org/abs/2306.06615) [[Code]](https://github.com/phenixace/MolReGPT)
+17. [2023 arXiv] From Artificially Real to Real: Leveraging Pseudo Data from Large Language Models for Low-Resource Molecule Discovery [[Paper]](https://arxiv.org/abs/2309.05203)
+18. [2023 arXiv] GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text [[Paper]](https://arxiv.org/abs/2308.06911)
+19. [2023 arXiv] Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models [[Paper]](https://arxiv.org/abs/2306.08018) [[Code]](https://github.com/zjunlp/Mol-Instructions)
+20. [2023 arXiv] Catalyst Property Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models [[Paper]](https://arxiv.org/abs/2309.00563) [[Code]](https://github.com/hoon-ock/CatBERTa)
+21. [2023 arXiv] GPT-MolBERTa: GPT Molecular Features Language Model for molecular property prediction [[Paper]](https://arxiv.org/abs/2310.03030) [[Code]](https://github.com/Suryanarayanan-Balaji/GPT-MolBERTa)
+22. [2024 ICLR Under review] Towards 3D Molecule-Text Interpretation in Language Models [[Paper]](https://openreview.net/forum?id=xI4yNlkaqh)
+23. [2024 ICLR Under review] Text2Data: Low-Resource Data Generation with Textual Control [[Paper]](https://openreview.net/forum?id=Y2Txh5uGRe)
+24. [2024 ICLR Under review] Text-guided Diffusion Model for 3D Molecule Generation [[Paper]](https://openreview.net/forum?id=FdUloEgBSE)
+25. [2024 ICLR Under review] Form follows Function: Text-to-Text Conditional Graph Generation based on Functional Requirements [[Paper]](https://openreview.net/forum?id=Pu3qMB9aKD)
+26. [2024 ICLR Under review] Data-Efficient Molecular Generation with Hierarchical Textual Inversion [[Paper]](https://openreview.net/forum?id=wwotGBxtC3)
 
 
 ## Survey on Molecules and Language Models
