@@ -16,7 +16,7 @@ We categorize various downstream tasks for molecule-text models and provide exam
 | Generative     | Molecule Generation [2, 6] <br/> Molecule Editing [4] | Molecule Captioning [2, 6] <br/> Molecular Question-Answering [23] | 
 
 ## :rotating_light: Workshop Alert
-[Language + Molecules workshop](https://language-plus-molecules.github.io/) will be held at ACL 2024
+[Language + Molecules workshop](https://language-plus-molecules.github.io/) will be held at ACL 2024!
 
 ## Papers
 1. [2021 EMNLP] Text2Mol: Cross-Modal Molecule Retrieval with Natural Language Queries [[Paper]](https://aclanthology.org/2021.emnlp-main.47/) [[Code]](https://github.com/cnedwards/text2mol)
