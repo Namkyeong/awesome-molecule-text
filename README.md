@@ -13,7 +13,7 @@ We categorize various downstream tasks for molecule-text models and provide exam
 |                | Text &rarr; Mol | Mol &rarr; Text | Mol + Text |
 |----------------|---------------------|---------------------|--------------------| 
 | Discriminative | Molecule Retrieval [1] <br/> Molecule Property Prediction [4] | Text Retrieval [4] | Zero-Shot Learning [7, 9] | 
-| Generative     | Molecule Generation [2, 6] <br/> Molecule Editing [4] | Molecule Captioning [2, 6] <br/> Molecular Question-Answering [22] | 
+| Generative     | Molecule Generation [2, 6] <br/> Molecule Editing [4] | Molecule Captioning [2, 6] <br/> Molecular Question-Answering [23] | 
 
 
 
@@ -30,10 +30,11 @@ We categorize various downstream tasks for molecule-text models and provide exam
 10. [2023 NeurIPS Benchmark & Dataset] What can Large Language Models do in chemistry? A comprehensive benchmark on eight tasks [[Paper]](https://arxiv.org/abs/2305.18365) [[Code]](https://github.com/ChemFoundationModels/ChemLLMBench)
 11. [2023 ACL Short] MolXPT: Wrapping Molecules with Text for Generative Pre-training [[Paper]](https://aclanthology.org/2023.acl-short.138/)
 12. [2023 EMNLP] MolCA: Molecular Graph-Language Modeling with Cross-Modal Projector and Uni-Modal Adapter [[Paper]](https://arxiv.org/abs/2310.12798) [[Code]](https://github.com/acharkq/MolCA)
-13. [2023 arXiv] MolFM: A Multimodal Molecular Foundation Model [[Paper]](https://arxiv.org/abs/2307.09484) [[Code]](https://github.com/PharMolix/OpenBioMed)
-14. [2023 arXiv] Can Large Language Models Empower Molecular Property Prediction? [[Paper]](https://arxiv.org/abs/2307.07443) [[Code]](https://github.com/chnq/llm4mol)
-15. [2023 arXiv] Interactive Molecular Discovery with Natural Language [[Paper]](https://arxiv.org/abs/2306.11976) [[Code]](https://github.com/Ellenzzn/ChatMol/tree/main)
-16. [2023 arXiv] Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective [[Paper]](https://arxiv.org/abs/2306.06615) [[Code]](https://github.com/phenixace/MolReGPT)
+13. [2023 EMNLP] ReLM: Leveraging Language Models for Enhanced Chemical Reaction Prediction [[Paper]](https://arxiv.org/pdf/2310.13590.pdf) [[Code]](https://github.com/syr-cn/relm)
+14. [2023 arXiv] MolFM: A Multimodal Molecular Foundation Model [[Paper]](https://arxiv.org/abs/2307.09484) [[Code]](https://github.com/PharMolix/OpenBioMed)
+15. [2023 arXiv] Can Large Language Models Empower Molecular Property Prediction? [[Paper]](https://arxiv.org/abs/2307.07443) [[Code]](https://github.com/chnq/llm4mol)
+16. [2023 arXiv] Interactive Molecular Discovery with Natural Language [[Paper]](https://arxiv.org/abs/2306.11976) [[Code]](https://github.com/Ellenzzn/ChatMol/tree/main)
+17. [2023 arXiv] Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective [[Paper]](https://arxiv.org/abs/2306.06615) [[Code]](https://github.com/phenixace/MolReGPT)
 17. [2023 arXiv] From Artificially Real to Real: Leveraging Pseudo Data from Large Language Models for Low-Resource Molecule Discovery [[Paper]](https://arxiv.org/abs/2309.05203)
 18. [2023 arXiv] GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text [[Paper]](https://arxiv.org/abs/2308.06911)
 19. [2023 arXiv] Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models [[Paper]](https://arxiv.org/abs/2306.08018) [[Code]](https://github.com/zjunlp/Mol-Instructions)
