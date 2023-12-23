@@ -13,7 +13,7 @@ We categorize various downstream tasks for molecule-text models and provide exam
 |                | Text &rarr; Mol | Mol &rarr; Text | Mol + Text |
 |----------------|---------------------|---------------------|--------------------| 
 | Discriminative | Molecule Retrieval [1] <br/> Molecule Property Prediction [4] | Text Retrieval [4] | Zero-Shot Learning [7, 9] | 
-| Generative     | Molecule Generation [2, 6] <br/> Molecule Editing [4] | Molecule Captioning [2, 6] <br/> Molecular Question-Answering [24] | 
+| Generative     | Molecule Generation [2, 6] <br/> Molecule Editing [4] | Molecule Captioning [2, 6] <br/> Molecular Question-Answering [25] | 
 
 ## :rotating_light: Workshop Alert
 [Language + Molecules workshop](https://language-plus-molecules.github.io/), which aims to synthsize language and molecules for scientific insight and discovery, will be held at [ACL 2024](https://2024.aclweb.org/)!
@@ -33,11 +33,12 @@ We categorize various downstream tasks for molecule-text models and provide exam
 12. [2023 EMNLP] MolCA: Molecular Graph-Language Modeling with Cross-Modal Projector and Uni-Modal Adapter [[Paper]](https://arxiv.org/abs/2310.12798) [[Code]](https://github.com/acharkq/MolCA)
 13. [2023 EMNLP] BioT5: Enriching Cross-modal Integration in Biology with Chemical Knowledge and Natural Language Associations [[Paper]](https://arxiv.org/abs/2310.07276) [[Code]](https://github.com/QizhiPei/BioT5)
 14. [2023 EMNLP] ReLM: Leveraging Language Models for Enhanced Chemical Reaction Prediction [[Paper]](https://arxiv.org/pdf/2310.13590.pdf) [[Code]](https://github.com/syr-cn/relm)
-15. [2023 arXiv] MolFM: A Multimodal Molecular Foundation Model [[Paper]](https://arxiv.org/abs/2307.09484) [[Code]](https://github.com/PharMolix/OpenBioMed)
-16. [2023 arXiv] Can Large Language Models Empower Molecular Property Prediction? [[Paper]](https://arxiv.org/abs/2307.07443) [[Code]](https://github.com/chnq/llm4mol)
-17. [2023 arXiv] Interactive Molecular Discovery with Natural Language [[Paper]](https://arxiv.org/abs/2306.11976) [[Code]](https://github.com/Ellenzzn/ChatMol/tree/main)
-18. [2023 arXiv] Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective [[Paper]](https://arxiv.org/abs/2306.06615) [[Code]](https://github.com/phenixace/MolReGPT)
-19. [2023 arXiv] From Artificially Real to Real: Leveraging Pseudo Data from Large Language Models for Low-Resource Molecule Discovery [[Paper]](https://arxiv.org/abs/2309.05203)
+15. [2023 EMNLP] Predictive Chemistry Augmented with Text Retrieval [[Paper]](https://arxiv.org/abs/2312.04881) [[Code]](https://github.com/thomas0809/textreact)
+16. [2023 arXiv] MolFM: A Multimodal Molecular Foundation Model [[Paper]](https://arxiv.org/abs/2307.09484) [[Code]](https://github.com/PharMolix/OpenBioMed)
+17. [2023 arXiv] Can Large Language Models Empower Molecular Property Prediction? [[Paper]](https://arxiv.org/abs/2307.07443) [[Code]](https://github.com/chnq/llm4mol)
+18. [2023 arXiv] Interactive Molecular Discovery with Natural Language [[Paper]](https://arxiv.org/abs/2306.11976) [[Code]](https://github.com/Ellenzzn/ChatMol/tree/main)
+19. [2023 arXiv] Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective [[Paper]](https://arxiv.org/abs/2306.06615) [[Code]](https://github.com/phenixace/MolReGPT)
+20. [2023 arXiv] From Artificially Real to Real: Leveraging Pseudo Data from Large Language Models for Low-Resource Molecule Discovery [[Paper]](https://arxiv.org/abs/2309.05203)
 20. [2023 arXiv] GIT-Mol: A Multi-modal Large Language Model for Molecular Science with Graph, Image, and Text [[Paper]](https://arxiv.org/abs/2308.06911)
 21. [2023 arXiv] Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models [[Paper]](https://arxiv.org/abs/2306.08018) [[Code]](https://github.com/zjunlp/Mol-Instructions)
 22. [2023 arXiv] Catalyst Property Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models [[Paper]](https://arxiv.org/abs/2309.00563) [[Code]](https://github.com/hoon-ock/CatBERTa)
