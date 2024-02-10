@@ -43,17 +43,19 @@ We categorize various downstream tasks for molecule-text models and provide exam
 21. [2023 arXiv] Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models [[Paper]](https://arxiv.org/abs/2306.08018) [[Code]](https://github.com/zjunlp/Mol-Instructions)
 22. [2023 arXiv] Catalyst Property Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models [[Paper]](https://arxiv.org/abs/2309.00563) [[Code]](https://github.com/hoon-ock/CatBERTa)
 23. [2023 arXiv] GPT-MolBERTa: GPT Molecular Features Language Model for molecular property prediction [[Paper]](https://arxiv.org/abs/2310.03030) [[Code]](https://github.com/Suryanarayanan-Balaji/GPT-MolBERTa)
-24. [2024 ICLR Under review] Towards 3D Molecule-Text Interpretation in Language Models [[Paper]](https://openreview.net/forum?id=xI4yNlkaqh)
-25. [2024 ICLR Under review] Text2Data: Low-Resource Data Generation with Textual Control [[Paper]](https://openreview.net/forum?id=Y2Txh5uGRe)
-26. [2024 ICLR Under review] Text-guided Diffusion Model for 3D Molecule Generation [[Paper]](https://openreview.net/forum?id=FdUloEgBSE)
-27. [2024 ICLR Under review] Form follows Function: Text-to-Text Conditional Graph Generation based on Functional Requirements [[Paper]](https://openreview.net/forum?id=Pu3qMB9aKD)
-28. [2024 ICLR Under review] Data-Efficient Molecular Generation with Hierarchical Textual Inversion [[Paper]](https://openreview.net/forum?id=wwotGBxtC3)
+24. [2024 ICLR] Towards 3D Molecule-Text Interpretation in Language Models [[Paper]](https://openreview.net/forum?id=xI4yNlkaqh)
+25. [2024 ICLR rejected] Text2Data: Low-Resource Data Generation with Textual Control [[Paper]](https://openreview.net/forum?id=Y2Txh5uGRe)
+26. [2024 ICLR rejected] Text-guided Diffusion Model for 3D Molecule Generation [[Paper]](https://openreview.net/forum?id=FdUloEgBSE)
+27. [2024 ICLR rejected] Form follows Function: Text-to-Text Conditional Graph Generation based on Functional Requirements [[Paper]](https://openreview.net/forum?id=Pu3qMB9aKD)
+28. [2024 ICLR rejected] Data-Efficient Molecular Generation with Hierarchical Textual Inversion [[Paper]](https://openreview.net/forum?id=wwotGBxtC3)
+29. [2024 arXiv] MolTC: Towards Molecular Relational Modeling In Language Models [[Paper]](https://arxiv.org/abs/2402.03781) [[Code]](https://github.com/MangoKiller/MolTC)
 
 
 
 ## Survey on Molecules and Language Models
 1. [2023 arXiv] Transformers and Large Language Models for Chemistry and Drug Discovery [[Paper]](https://arxiv.org/abs/2310.06083)
 2. [2023 arXiv] Language models in molecular discovery [[Paper]](https://arxiv.org/abs/2309.16235)
+3. [2024 arXiv] Scientific Language Modeling: A Quantitative Review of Large Language Models in Molecular Science [[Paper]](https://arxiv.org/abs/2402.04119)
 
 
 ## Acknowledgements
