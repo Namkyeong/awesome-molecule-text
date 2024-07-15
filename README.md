@@ -50,7 +50,8 @@ We categorize various downstream tasks for molecule-text models and provide exam
 28. [2024 ICLR rejected] Form follows Function: Text-to-Text Conditional Graph Generation based on Functional Requirements [[Paper]](https://openreview.net/forum?id=Pu3qMB9aKD)
 29. [2024 ICML] Data-Efficient Molecular Generation with Hierarchical Textual Inversion [[Paper]](https://openreview.net/forum?id=wwotGBxtC3)
 30. [2024 ACL] MolTC: Towards Molecular Relational Modeling In Language Models [[Paper]](https://arxiv.org/abs/2402.03781) [[Code]](https://github.com/MangoKiller/MolTC)
-31. [2024 KDD] Learning Multi-View Molecular Representations with Structured and Unstructured Knowledge [[Paper]](https://arxiv.org/abs/2406.09841) [[Code]](https://github.com/PharMolix/OpenBioMed)
+31. [2024 ACL Findings] ReactXT: Understanding Molecular Relationship via Reaction-Contextualized Molecule-Text Pretraining [[Paper]](https://arxiv.org/abs/2405.14225) [[Code]](https://github.com/syr-cn/ReactXT)
+32. [2024 KDD] Learning Multi-View Molecular Representations with Structured and Unstructured Knowledge [[Paper]](https://arxiv.org/abs/2406.09841) [[Code]](https://github.com/PharMolix/OpenBioMed)
 
 
 ## Survey on Molecules and Language Models
