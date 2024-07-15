@@ -43,13 +43,13 @@ We categorize various downstream tasks for molecule-text models and provide exam
 21. [2023 arXiv] Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models [[Paper]](https://arxiv.org/abs/2306.08018) [[Code]](https://github.com/zjunlp/Mol-Instructions)
 22. [2023 arXiv] Catalyst Property Prediction with CatBERTa: Unveiling Feature Exploration Strategies through Large Language Models [[Paper]](https://arxiv.org/abs/2309.00563) [[Code]](https://github.com/hoon-ock/CatBERTa)
 23. [2023 arXiv] GPT-MolBERTa: GPT Molecular Features Language Model for molecular property prediction [[Paper]](https://arxiv.org/abs/2310.03030) [[Code]](https://github.com/Suryanarayanan-Balaji/GPT-MolBERTa)
-24. [2024 ICLR] Towards 3D Molecule-Text Interpretation in Language Models [[Paper]](https://openreview.net/forum?id=xI4yNlkaqh)
+24. [2024 ICLR] Towards 3D Molecule-Text Interpretation in Language Models [[Paper]](https://openreview.net/forum?id=xI4yNlkaqh) [[Code]](https://github.com/lsh0520/3D-MoLM)
 25. [2024 ICLR rejected] Text2Data: Low-Resource Data Generation with Textual Control [[Paper]](https://openreview.net/forum?id=Y2Txh5uGRe)
 26. [2024 ICLR rejected] Text-guided Diffusion Model for 3D Molecule Generation [[Paper]](https://openreview.net/forum?id=FdUloEgBSE)
 27. [2024 ICLR rejected] Form follows Function: Text-to-Text Conditional Graph Generation based on Functional Requirements [[Paper]](https://openreview.net/forum?id=Pu3qMB9aKD)
-28. [2024 ICLR rejected] Data-Efficient Molecular Generation with Hierarchical Textual Inversion [[Paper]](https://openreview.net/forum?id=wwotGBxtC3)
-29. [2024 arXiv] MolTC: Towards Molecular Relational Modeling In Language Models [[Paper]](https://arxiv.org/abs/2402.03781) [[Code]](https://github.com/MangoKiller/MolTC)
-
+28. [2024 ICML] Data-Efficient Molecular Generation with Hierarchical Textual Inversion [[Paper]](https://openreview.net/forum?id=wwotGBxtC3)
+29. [2024 ACL] MolTC: Towards Molecular Relational Modeling In Language Models [[Paper]](https://arxiv.org/abs/2402.03781) [[Code]](https://github.com/MangoKiller/MolTC)
+30. [2024 KDD] Learning Multi-View Molecular Representations with Structured and Unstructured Knowledge [[Paper]](https://arxiv.org/abs/2406.09841) [[Code]](https://github.com/PharMolix/OpenBioMed)
 
 
 ## Survey on Molecules and Language Models
